@@ -5,7 +5,7 @@
 - Gosto de conhecer novas tecnologias e estudar os problemas que elas resolvem :male_detective: .
 - Prefiro trabalhar com frontend por que no final das contas é o que  conta mais para os clientes uma vez que 90% das informações transmitidas ao cérebro são visuais :anchor: .
 
-<h2 align="center">conecte-se comigo::</h2>  
+<h2 align="center">conecte-se comigo:</h2>  
 <div align="center"><a href="https://www.linkedin.com/in/clodoaldo-neto-ab3bb8240/" target="_blank">
 <img align="center" alt="clodoaldo-linkedin" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width:100%;">
 </a>
