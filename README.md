@@ -29,7 +29,7 @@
 <div align="center"><h5>frontend:</h5>
   <i>   
   <p align="center" list-style-type="none" > angular, formly/angular, nebular/angular , angular material e bootstrap.</p>
-  <!-- <p align="center" list-style-type='none' >  vue, vuex e bootstrap..</p> -->
+  <p align="center" list-style-type='none' >  vue, vuex e bootstrap.</p>
   </i>
 </div> 
 
