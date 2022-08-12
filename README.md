@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text= Fala Dev, Bem-vindo!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text= Fala Dev, Bem-vindo!&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>  -->
 <p align="right"><img src="https://komarev.com/ghpvc/?username=youtuber-codes&color=00bfbf" alt="C. Neto" /></p>  
 
 - Venho aprendendo desenvolvimento com foco no uso do node/express, com typescript e Vue3 no front :sparkling_heart: .
